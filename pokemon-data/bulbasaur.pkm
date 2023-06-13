@@ -1,0 +1,9 @@
+name: bulbasaur
+pokedex-id: 1
+type: grass
+hp: 45
+attack: 49
+defense: 49
+sp-attack: 65
+sp-defense: 65
+speed: 45
